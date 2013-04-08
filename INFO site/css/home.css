@@ -1,0 +1,68 @@
+.policy{
+	margin-top:-25px;
+	float:right;
+}
+.home-nav li{
+	border-top: 1px solid #c8c8c8;
+	border-bottom: 1px solid #c8c8c8;
+	padding: 10px;
+	width: 400px;
+	margin-left: auto;
+}
+.home-nav li a:link, nav li a:visited{
+	color: #000000;
+	text-decoration: none;
+	font-size: 1.3em;
+	font-weight: lighter;
+}
+.home-nav li a:hover, #current-link{
+	color: #FFFFFF;
+}
+#home-nav{
+	margin-bottom: 30px;
+	padding: 10px;
+	width: 400px;
+	border-top: 1px solid #c8c8c8;	
+	border-bottom: 1px solid #c8c8c8;
+}
+.mini-banner h1{
+	margin-left: 310px;
+}
+.login-index{
+	float:left;
+	margin-top: -25px;
+}
+.toggler { 
+	width: 500px; 
+	height: 200px; 
+}
+#button { 
+	padding: .5em 1em; 
+	text-decoration: none; 
+}
+#effect { 
+	margin-top: 20px;
+	width: 410px; 
+	height: auto; 
+	padding: 0.4em; 
+	position: relative; 
+}
+#effect h3 { 
+	margin: 0; 
+	padding: 0.4em; 
+	text-align: center; 
+}
+.about-us{
+	background: rgba(126,124,124,0.6);
+	margin-left: 325px;
+	width: 410px;
+	border-radius: 8px;
+}
+h3 {
+	font-weight: bold;
+	font-size: 1.5em;
+	
+}
+p {
+	margin: 10px;
+}
